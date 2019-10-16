@@ -1,74 +1,74 @@
-\select@language {spanish}
-\contentsline {chapter}{\numberline {1}Empleo y lectura de instrumentos de medici\IeC {\'o}n el\IeC {\'e}ctrica para corriente y voltaje}{4}{chapter.1}
-\contentsline {section}{\numberline {1.1}Objetivos}{4}{section.1.1}
-\contentsline {section}{\numberline {1.2}Investigaci\IeC {\'o}n previa}{4}{section.1.2}
-\contentsline {section}{\numberline {1.3}Materiales y equipo}{5}{section.1.3}
-\contentsline {section}{\numberline {1.4}Procedimiento}{5}{section.1.4}
-\contentsline {chapter}{\numberline {2}Resistencia y resistividad}{8}{chapter.2}
-\contentsline {section}{\numberline {2.1}Objetivos}{8}{section.2.1}
-\contentsline {section}{\numberline {2.2}Investigaci\IeC {\'o}n previa}{8}{section.2.2}
-\contentsline {section}{\numberline {2.3}Materiales y equipo}{9}{section.2.3}
-\contentsline {section}{\numberline {2.4}Procedimiento}{9}{section.2.4}
-\contentsline {subsection}{\numberline {2.4.1}Resistividad}{9}{subsection.2.4.1}
-\contentsline {subsection}{\numberline {2.4.2}Resistencia}{11}{subsection.2.4.2}
-\contentsline {chapter}{\numberline {3}Circuitos en serie y paralelo}{12}{chapter.3}
-\contentsline {section}{\numberline {3.1}Objetivos}{12}{section.3.1}
-\contentsline {section}{\numberline {3.2}Investigaci\IeC {\'o}n previa}{12}{section.3.2}
-\contentsline {section}{\numberline {3.3}Materiales y equipo}{13}{section.3.3}
-\contentsline {section}{\numberline {3.4}Procedimiento}{13}{section.3.4}
-\contentsline {subsection}{\numberline {3.4.1}Circuitos en serie}{13}{subsection.3.4.1}
-\contentsline {subsection}{\numberline {3.4.2}Circuitos en paralelos}{14}{subsection.3.4.2}
-\contentsline {chapter}{\numberline {4}Taller de simulaci\IeC {\'o}n de circuitos}{15}{chapter.4}
-\contentsline {section}{\numberline {4.1}Objetivos}{15}{section.4.1}
-\contentsline {section}{\numberline {4.2}Investigaci\IeC {\'o}n previa}{15}{section.4.2}
-\contentsline {section}{\numberline {4.3}Materiales y equipo}{16}{section.4.3}
-\contentsline {section}{\numberline {4.4}Procedimiento}{16}{section.4.4}
-\contentsline {chapter}{\numberline {5}Taller de implementaci\IeC {\'o}n de un circuito en una protoboard}{18}{chapter.5}
-\contentsline {section}{\numberline {5.1}Objetivos}{18}{section.5.1}
-\contentsline {section}{\numberline {5.2}Investigaci\IeC {\'o}n previa}{18}{section.5.2}
-\contentsline {section}{\numberline {5.3}Consideraciones para la implementaci\IeC {\'o}n del circuito}{19}{section.5.3}
-\contentsline {section}{\numberline {5.4}Materiales y Equipo}{19}{section.5.4}
-\contentsline {section}{\numberline {5.5}Procedimiento}{19}{section.5.5}
-\contentsline {chapter}{\numberline {6}An\IeC {\'a}lisis de Mallas y Teorema de Superposici\IeC {\'o}n}{22}{chapter.6}
-\contentsline {section}{\numberline {6.1}Objetivos}{22}{section.6.1}
-\contentsline {section}{\numberline {6.2}Investigaci\IeC {\'o}n previa}{22}{section.6.2}
-\contentsline {section}{\numberline {6.3}Materiales y equipo}{22}{section.6.3}
-\contentsline {section}{\numberline {6.4}Procedimiento}{23}{section.6.4}
-\contentsline {chapter}{\numberline {7}Taller sobre el osciloscopio y el generador de se\IeC {\~n}ales}{25}{chapter.7}
-\contentsline {section}{\numberline {7.1}Objetivos}{25}{section.7.1}
-\contentsline {section}{\numberline {7.2}Investigaci\IeC {\'o}n previa}{25}{section.7.2}
-\contentsline {section}{\numberline {7.3}Materiales y equipo}{26}{section.7.3}
-\contentsline {section}{\numberline {7.4}Procedimiento}{26}{section.7.4}
-\contentsline {chapter}{\numberline {8}Teoremas de Th\IeC {\'e}venin y m\IeC {\'a}xima transferencia de potencia}{28}{chapter.8}
-\contentsline {section}{\numberline {8.1}Objetivos}{28}{section.8.1}
-\contentsline {section}{\numberline {8.2}Investigaci\IeC {\'o}n previa}{28}{section.8.2}
-\contentsline {section}{\numberline {8.3}Materiales y equipo}{29}{section.8.3}
-\contentsline {section}{\numberline {8.4}Procedimiento}{29}{section.8.4}
-\contentsline {chapter}{\numberline {9}Circuitos RL y RC}{31}{chapter.9}
-\contentsline {section}{\numberline {9.1}Objetivos}{31}{section.9.1}
-\contentsline {section}{\numberline {9.2}Investigaci\IeC {\'o}n previa}{31}{section.9.2}
-\contentsline {section}{\numberline {9.3}Materiales y equipo}{31}{section.9.3}
-\contentsline {section}{\numberline {9.4}Procedimiento}{32}{section.9.4}
-\contentsline {subsection}{\numberline {9.4.1}Circuito transitorio RC}{32}{subsection.9.4.1}
-\contentsline {subsection}{\numberline {9.4.2}Circuito transitorio RL}{32}{subsection.9.4.2}
-\contentsline {chapter}{\numberline {10}Valores eficaces}{34}{chapter.10}
-\contentsline {section}{\numberline {10.1}Objetivos}{34}{section.10.1}
-\contentsline {section}{\numberline {10.2}Investigaci\IeC {\'o}n previa}{34}{section.10.2}
-\contentsline {section}{\numberline {10.3}Materiales y equipo}{35}{section.10.3}
-\contentsline {section}{\numberline {10.4}Procedimiento}{35}{section.10.4}
-\contentsline {chapter}{\numberline {11}Circuitos mixto RLC en corriente alterna}{36}{chapter.11}
-\contentsline {section}{\numberline {11.1}Objetivos}{36}{section.11.1}
-\contentsline {section}{\numberline {11.2}Investigaci\IeC {\'o}n previa}{36}{section.11.2}
-\contentsline {section}{\numberline {11.3}Materiales y equipo}{37}{section.11.3}
-\contentsline {section}{\numberline {11.4}Procedimiento}{37}{section.11.4}
-\contentsline {chapter}{\numberline {12}Mejoramiento del factor de potencia}{39}{chapter.12}
-\contentsline {section}{\numberline {12.1}Objetivos}{39}{section.12.1}
-\contentsline {section}{\numberline {12.2}Investigaci\IeC {\'o}n previa}{39}{section.12.2}
-\contentsline {section}{\numberline {12.3}Materiales y equipo}{39}{section.12.3}
-\contentsline {section}{\numberline {12.4}Procedimiento}{40}{section.12.4}
-\contentsline {chapter}{\numberline {A}El osciloscopio de rayos cat\IeC {\'o}dicos}{42}{appendix.Alph1}
-\contentsline {chapter}{\numberline {B}Gu\IeC {\'\i }a para la presentaci\IeC {\'o}n de informes de laboratorio}{48}{appendix.Alph2}
-\contentsline {section}{\numberline {B.1}Estructura}{48}{section.Alph2.1}
-\contentsline {chapter}{\numberline {C}Lineamientos para la presentaci\IeC {\'o}n de la bit\IeC {\'a}cora}{51}{appendix.Alph3}
-\contentsline {chapter}{\numberline {D}Seguridad en laboratorios de electricidad, instructivo para el estudiante}{54}{appendix.Alph4}
-\contentsline {chapter}{\numberline {E}Normas de seguridad en el laboratorio}{58}{appendix.Alph5}
+\babel@toc {spanish}{}
+\contentsline {chapter}{\numberline {1}Empleo y lectura de instrumentos de medici\IeC {\'o}n el\IeC {\'e}ctrica para corriente y voltaje}{4}{chapter.1}% 
+\contentsline {section}{\numberline {1.1}Objetivos}{4}{section.1.1}% 
+\contentsline {section}{\numberline {1.2}Investigaci\IeC {\'o}n previa}{4}{section.1.2}% 
+\contentsline {section}{\numberline {1.3}Materiales y equipo}{5}{section.1.3}% 
+\contentsline {section}{\numberline {1.4}Procedimiento}{5}{section.1.4}% 
+\contentsline {chapter}{\numberline {2}Resistencia y resistividad}{8}{chapter.2}% 
+\contentsline {section}{\numberline {2.1}Objetivos}{8}{section.2.1}% 
+\contentsline {section}{\numberline {2.2}Investigaci\IeC {\'o}n previa}{8}{section.2.2}% 
+\contentsline {section}{\numberline {2.3}Materiales y equipo}{9}{section.2.3}% 
+\contentsline {section}{\numberline {2.4}Procedimiento}{9}{section.2.4}% 
+\contentsline {subsection}{\numberline {2.4.1}Resistividad}{9}{subsection.2.4.1}% 
+\contentsline {subsection}{\numberline {2.4.2}Resistencia}{11}{subsection.2.4.2}% 
+\contentsline {chapter}{\numberline {3}Circuitos en serie y paralelo}{12}{chapter.3}% 
+\contentsline {section}{\numberline {3.1}Objetivos}{12}{section.3.1}% 
+\contentsline {section}{\numberline {3.2}Investigaci\IeC {\'o}n previa}{12}{section.3.2}% 
+\contentsline {section}{\numberline {3.3}Materiales y equipo}{13}{section.3.3}% 
+\contentsline {section}{\numberline {3.4}Procedimiento}{13}{section.3.4}% 
+\contentsline {subsection}{\numberline {3.4.1}Circuitos en serie}{13}{subsection.3.4.1}% 
+\contentsline {subsection}{\numberline {3.4.2}Circuitos en paralelos}{14}{subsection.3.4.2}% 
+\contentsline {chapter}{\numberline {4}Taller de simulaci\IeC {\'o}n de circuitos}{15}{chapter.4}% 
+\contentsline {section}{\numberline {4.1}Objetivos}{15}{section.4.1}% 
+\contentsline {section}{\numberline {4.2}Investigaci\IeC {\'o}n previa}{15}{section.4.2}% 
+\contentsline {section}{\numberline {4.3}Materiales y equipo}{16}{section.4.3}% 
+\contentsline {section}{\numberline {4.4}Procedimiento}{16}{section.4.4}% 
+\contentsline {chapter}{\numberline {5}Taller de implementaci\IeC {\'o}n de un circuito en una protoboard}{18}{chapter.5}% 
+\contentsline {section}{\numberline {5.1}Objetivos}{18}{section.5.1}% 
+\contentsline {section}{\numberline {5.2}Investigaci\IeC {\'o}n previa}{18}{section.5.2}% 
+\contentsline {section}{\numberline {5.3}Consideraciones para la implementaci\IeC {\'o}n del circuito}{19}{section.5.3}% 
+\contentsline {section}{\numberline {5.4}Materiales y Equipo}{19}{section.5.4}% 
+\contentsline {section}{\numberline {5.5}Procedimiento}{19}{section.5.5}% 
+\contentsline {chapter}{\numberline {6}An\IeC {\'a}lisis de Mallas y Teorema de Superposici\IeC {\'o}n}{22}{chapter.6}% 
+\contentsline {section}{\numberline {6.1}Objetivos}{22}{section.6.1}% 
+\contentsline {section}{\numberline {6.2}Investigaci\IeC {\'o}n previa}{22}{section.6.2}% 
+\contentsline {section}{\numberline {6.3}Materiales y equipo}{22}{section.6.3}% 
+\contentsline {section}{\numberline {6.4}Procedimiento}{23}{section.6.4}% 
+\contentsline {chapter}{\numberline {7}Taller sobre el osciloscopio y el generador de se\IeC {\~n}ales}{25}{chapter.7}% 
+\contentsline {section}{\numberline {7.1}Objetivos}{25}{section.7.1}% 
+\contentsline {section}{\numberline {7.2}Investigaci\IeC {\'o}n previa}{25}{section.7.2}% 
+\contentsline {section}{\numberline {7.3}Materiales y equipo}{26}{section.7.3}% 
+\contentsline {section}{\numberline {7.4}Procedimiento}{26}{section.7.4}% 
+\contentsline {chapter}{\numberline {8}Teoremas de Th\IeC {\'e}venin y m\IeC {\'a}xima transferencia de potencia}{28}{chapter.8}% 
+\contentsline {section}{\numberline {8.1}Objetivos}{28}{section.8.1}% 
+\contentsline {section}{\numberline {8.2}Investigaci\IeC {\'o}n previa}{28}{section.8.2}% 
+\contentsline {section}{\numberline {8.3}Materiales y equipo}{29}{section.8.3}% 
+\contentsline {section}{\numberline {8.4}Procedimiento}{29}{section.8.4}% 
+\contentsline {chapter}{\numberline {9}Circuitos RL y RC}{31}{chapter.9}% 
+\contentsline {section}{\numberline {9.1}Objetivos}{31}{section.9.1}% 
+\contentsline {section}{\numberline {9.2}Investigaci\IeC {\'o}n previa}{31}{section.9.2}% 
+\contentsline {section}{\numberline {9.3}Materiales y equipo}{31}{section.9.3}% 
+\contentsline {section}{\numberline {9.4}Procedimiento}{32}{section.9.4}% 
+\contentsline {subsection}{\numberline {9.4.1}Circuito transitorio RC}{32}{subsection.9.4.1}% 
+\contentsline {subsection}{\numberline {9.4.2}Circuito transitorio RL}{32}{subsection.9.4.2}% 
+\contentsline {chapter}{\numberline {10}Valores eficaces}{34}{chapter.10}% 
+\contentsline {section}{\numberline {10.1}Objetivos}{34}{section.10.1}% 
+\contentsline {section}{\numberline {10.2}Investigaci\IeC {\'o}n previa}{34}{section.10.2}% 
+\contentsline {section}{\numberline {10.3}Materiales y equipo}{35}{section.10.3}% 
+\contentsline {section}{\numberline {10.4}Procedimiento}{35}{section.10.4}% 
+\contentsline {chapter}{\numberline {11}Circuitos mixto RLC en corriente alterna}{36}{chapter.11}% 
+\contentsline {section}{\numberline {11.1}Objetivos}{36}{section.11.1}% 
+\contentsline {section}{\numberline {11.2}Investigaci\IeC {\'o}n previa}{36}{section.11.2}% 
+\contentsline {section}{\numberline {11.3}Materiales y equipo}{37}{section.11.3}% 
+\contentsline {section}{\numberline {11.4}Procedimiento}{37}{section.11.4}% 
+\contentsline {chapter}{\numberline {12}Mejoramiento del factor de potencia}{39}{chapter.12}% 
+\contentsline {section}{\numberline {12.1}Objetivos}{39}{section.12.1}% 
+\contentsline {section}{\numberline {12.2}Investigaci\IeC {\'o}n previa}{39}{section.12.2}% 
+\contentsline {section}{\numberline {12.3}Materiales y equipo}{39}{section.12.3}% 
+\contentsline {section}{\numberline {12.4}Procedimiento}{40}{section.12.4}% 
+\contentsline {chapter}{\numberline {A}El osciloscopio de rayos cat\IeC {\'o}dicos}{42}{appendix.Alph1}% 
+\contentsline {chapter}{\numberline {B}Gu\IeC {\'\i }a para la presentaci\IeC {\'o}n de informes de laboratorio}{48}{appendix.Alph2}% 
+\contentsline {section}{\numberline {B.1}Estructura}{48}{section.Alph2.1}% 
+\contentsline {chapter}{\numberline {C}Lineamientos para la presentaci\IeC {\'o}n de la bit\IeC {\'a}cora}{51}{appendix.Alph3}% 
+\contentsline {chapter}{\numberline {D}Seguridad en laboratorios de electricidad, instructivo para el estudiante}{54}{appendix.Alph4}% 
+\contentsline {chapter}{\numberline {E}Normas de seguridad en el laboratorio}{58}{appendix.Alph5}% 
